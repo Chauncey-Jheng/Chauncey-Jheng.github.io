@@ -1,0 +1,4 @@
+baseURL = 'https;//chauncey-jheng.github.io'
+languageCode = 'en-us'
+title = 'zeta club'
+theme = 'ananke'
