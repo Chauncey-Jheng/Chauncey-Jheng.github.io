@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>zeta club</title>
-    <link>https://chauncey-jheng.github.io/</link>
-    <description>Recent content on zeta club</description>
+    <title>Posts on zeta club</title>
+    <link>https://chauncey-jheng.github.io/posts/</link>
+    <description>Recent content in Posts on zeta club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Feb 2023 17:51:51 +0800</lastBuildDate><atom:link href="https://chauncey-jheng.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Feb 2023 17:51:51 +0800</lastBuildDate><atom:link href="https://chauncey-jheng.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
       <link>https://chauncey-jheng.github.io/posts/my-first-post/</link>
