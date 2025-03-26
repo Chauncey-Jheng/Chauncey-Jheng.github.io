@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: About Me
+title: 🤗About Me
 excerpt: "Chengxin Zheng's Homepage"
 author_profile: true
 redirect_from: 
