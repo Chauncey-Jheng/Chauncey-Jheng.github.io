@@ -30,7 +30,7 @@ redirect_from:
 Refer to my [Google Scholar Profile](https://scholar.google.com/citations?user=A0sJMfUAAAAJ) for full publication list.
 - Medical multimodal large models:
 
-  - X. Zhang, Y. Shi, J. Ji, **C. Zheng**, and L. Qu, MEPNet: Medical Entity-balanced Prompting Network for Brain CT Report Generation. *AAAI Conference on Artificial Intelligence (AAAI)*, Philadelphia, Pennsylvania, USA, Feb. - Mar. 2025. [[**Paper**]](https://arxiv.org/abs/2503.17784)[[**Code**]](https://github.com/YanzhaoShi/MEPNet)
+  - X. Zhang, Y. Shi, J. Ji, **C. Zheng**, and L. Qu, MEPNet: Medical Entity-balanced Prompting Network for Brain CT Report Generation. *AAAI Conference on Artificial Intelligence (AAAI)*, Philadelphia, Pennsylvania, USA, Feb.-Mar. 2025. [[**Paper**]](https://arxiv.org/abs/2503.17784)[[**Code**]](https://github.com/YanzhaoShi/MEPNet)
   - **C. Zheng**, J. Ji, Y. Shi, X. Zhang, and L. Qu, See Detail Say Clear: Towards Brain CT Report Generation via Pathological Clue-driven Representation Learning. *Empirical Methods in Natural Language Processing (EMNLP)*, Miami, Florida, USA, Nov. 2024. [[**Paper**]](https://arxiv.org/abs/2409.19676) [[**code**]](https://github.com/Chauncey-Jheng/PCRL-MRG)
 
 # 🎖 Awards and Honors 
