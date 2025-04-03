@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am a second-year MS student in [College of Computer Science](https://cs.bjut.edu.cn/) at [Beijing University of Technology (BJUT)](https://english.bjut.edu.cn/), supervised by [Prof. Junzhong Ji](https://english.bjut.edu.cn/info/1332/4973.htm) and [Prof. Xiaodan Zhang](https://zhangxiaodan-bjut.github.io/). I received my B.Eng in [School of Computer and Information](https://ci.hfut.edu.cn/) from [Hefei University of Technology (HFUT)](https://www.hfut.edu.cn/) in 2023.
+- 🤗I am a second-year MS student in [College of Computer Science](https://cs.bjut.edu.cn/) at [Beijing University of Technology (BJUT)](https://english.bjut.edu.cn/), supervised by [Prof. Junzhong Ji](https://english.bjut.edu.cn/info/1332/4973.htm) and [Prof. Xiaodan Zhang](https://zhangxiaodan-bjut.github.io/). I received my B.Eng in [School of Computer and Information](https://ci.hfut.edu.cn/) from [Hefei University of Technology (HFUT)](https://www.hfut.edu.cn/) in 2023.
 
 📌 My research interests lie in Unified multimodal large model(Uni-MLLMs) and Medical multimodal large models (Med-MLLMs).
 
@@ -18,7 +18,7 @@ redirect_from:
 
 # 🔥 News
 
-- **[2024/12]** Our paper "MEPNet: Medical Entity-balanced Prompting Network for Brain CT Report Generation" was accepted to AAAI 2025. [[**Paper**]][https://arxiv.org/abs/2503.17784]([**Code**)](https://github.com/YanzhaoShi/MEPNet)
+- **[2024/12]** Our paper "MEPNet: Medical Entity-balanced Prompting Network for Brain CT Report Generation" was accepted to AAAI 2025. [[**Paper**]][https://arxiv.org/abs/2503.17784] [[**Code**]](https://github.com/YanzhaoShi/MEPNet)
 - **[2024/09]** Our paper "See Detail Say Clear: Towards Brain CT Report Generation via Pathological Clue-driven Representation Learning" was accepted to EMNLP 2024 findings. [[**Paper**]](https://arxiv.org/abs/2409.19676) [[**code**]](https://github.com/Chauncey-Jheng/PCRL-MRG)
 
 # 🏢 Internship Experience
