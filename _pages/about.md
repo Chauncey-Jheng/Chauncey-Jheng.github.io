@@ -22,7 +22,7 @@ redirect_from:
 - **[2024/09]** Our paper "See Detail Say Clear: Towards Brain CT Report Generation via Pathological Clue-driven Representation Learning" was accepted to EMNLP 2024 findings. [[**Paper**]](https://arxiv.org/abs/2409.19676) [[**code**]](https://github.com/Chauncey-Jheng/PCRL-MRG)
 
 # 🏢 Internship Experience
-- **Research Intern** | **@ Qianfan Large Model Team, BAIDU AI Cloud ** | **CN Beijing, May. 2025 - Now**
+- **Research Intern** | **@ Qianfan Large Model Team, BAIDU AI Cloud** | **CN Beijing, May. 2025 - Now**
   - Rearch Project: Discretization-based cross-modal autoregressive training for enhancing unified understanding capabilities in large multi-modal models.
 
 - **Research Intern** | **@ Multi-modal Model Team, TeleAI** | **CN Beijing, Oct. 2024 - Apr. 2025**
