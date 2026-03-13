@@ -35,7 +35,7 @@ redirect_from:
 
 Refer to my [Google Scholar Profile](https://scholar.google.com/citations?user=A0sJMfUAAAAJ) for publication list.
 
-- Unified multimodal large models:
+- Domain-enhanced vision-language models:
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; margin-bottom: 20px; text-align: center;">
       <div>
@@ -111,7 +111,7 @@ Refer to my [Google Scholar Profile](https://scholar.google.com/citations?user=A
 
 完整论文列表请参阅 [Google Scholar 主页](https://scholar.google.com/citations?user=A0sJMfUAAAAJ)。
 
-- 统一多模态大模型：
+- 领域增强视觉语言大模型：
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; margin-bottom: 20px; text-align: center;">
       <div>
