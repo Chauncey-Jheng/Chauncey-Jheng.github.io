@@ -17,4 +17,21 @@
 <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
+<!-- Language toggle: detect saved preference early to avoid flash -->
+<script>
+  (function() {
+    var lang = localStorage.getItem('lang');
+    if (lang === 'zh') document.documentElement.setAttribute('data-lang', 'zh');
+  })();
+</script>
+
+<!-- Language toggle styles -->
+<style>
+  .lang-zh { display: none; }
+  html[data-lang="zh"] .lang-zh { display: block; }
+  html[data-lang="zh"] .lang-en { display: none; }
+  #lang-toggle { cursor: pointer; font-weight: 600; }
+  #lang-toggle a { padding: 0 4px; }
+</style>
+
 <!-- end custom head snippets -->
