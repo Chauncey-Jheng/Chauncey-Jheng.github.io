@@ -16,7 +16,7 @@ redirect_from:
 
 ✉️ Welcome to contact me for any discussion and cooperation!
 
-💥 💥 **I will graduate in 2026 and am currently seeking opportunities for PhD studies and research internships.  If you are interested, please feel free to contact me** 💥 💥
+💥 💥 **I will graduate in 2026 and plan to join Baidu AI Cloud as a Large Language Model Algorithm Engineer. Feel free to contact me for any discussion!** 💥 💥
 
 # 🔥 News
 - **[2025/05]** Joined Baidu AI Cloud Qianfan Model Training Team as a research intern, working on unified multi-modal large models.
@@ -79,7 +79,7 @@ Refer to my [Google Scholar Profile](https://scholar.google.com/citations?user=A
 
 ✉️ 欢迎联系我进行任何学术讨论与合作！
 
-💥 💥 **我将于2026年毕业，目前正在积极寻求博士学习和科研实习机会。如有兴趣，欢迎随时联系我！** 💥 💥
+💥 💥 **我将于2026年毕业，计划加入百度智能云担任大模型算法工程师。欢迎随时联系交流！** 💥 💥
 
 # 🔥 最新动态
 - **[2025/05]** 加入百度AI云千帆模型训练团队，担任科研实习生，研究方向为统一多模态大模型。
