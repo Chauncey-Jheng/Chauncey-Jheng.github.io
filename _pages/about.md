@@ -35,6 +35,19 @@ redirect_from:
 
 Refer to my [Google Scholar Profile](https://scholar.google.com/citations?user=A0sJMfUAAAAJ) for publication list.
 
+- Unified multimodal large models:
+
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; margin-bottom: 20px; text-align: center;">
+      <div>
+          <h2 style="margin: 0;">Qianfan-VL: Domain-Enhanced Universal Vision-Language Models</h2>
+          <p>D. Dong, M. Zheng, D. Xu, B. Zhuang, W. Zhang, C. Luo, H. Wang, Z. Zhao, J. Li, Y. Li, H. Zhong, M. Liu, J. Chen, S. Li, L. Tian, Y. Feng, X. Li, D. Jiang, Y. Chen, Y. Xu, D. Qin, C. Feng, D. Wang, H. Zhang, J. Ha, J. He, Y. Zhai, <strong>C. Zheng</strong>, et al.</p>
+          <p>arXiv preprint, 2025</p>
+          <p>
+              <a href="https://arxiv.org/abs/2509.18189">Paper</a>
+          </p>
+      </div>
+  </div>
+
 - Medical multimodal large models:
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; margin-bottom: 20px; text-align: center;">
@@ -97,6 +110,19 @@ Refer to my [Google Scholar Profile](https://scholar.google.com/citations?user=A
 # 📝 代表性论文
 
 完整论文列表请参阅 [Google Scholar 主页](https://scholar.google.com/citations?user=A0sJMfUAAAAJ)。
+
+- 统一多模态大模型：
+
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; margin-bottom: 20px; text-align: center;">
+      <div>
+          <h2 style="margin: 0;">Qianfan-VL: Domain-Enhanced Universal Vision-Language Models</h2>
+          <p>D. Dong, M. Zheng, D. Xu, B. Zhuang, W. Zhang, C. Luo, H. Wang, Z. Zhao, J. Li, Y. Li, H. Zhong, M. Liu, J. Chen, S. Li, L. Tian, Y. Feng, X. Li, D. Jiang, Y. Chen, Y. Xu, D. Qin, C. Feng, D. Wang, H. Zhang, J. Ha, J. He, Y. Zhai, <strong>C. Zheng</strong> 等</p>
+          <p>arXiv 预印本，2025</p>
+          <p>
+              <a href="https://arxiv.org/abs/2509.18189">论文</a>
+          </p>
+      </div>
+  </div>
 
 - 医疗多模态大模型：
 
