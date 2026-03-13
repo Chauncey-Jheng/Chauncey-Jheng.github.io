@@ -1,27 +1,33 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
 <script>
-  // Language toggle logic
-  $(document).ready(function () {
-    var setLang = function (lang) {
-      lang = lang || localStorage.getItem('lang') || 'en';
-      if (lang === 'zh') {
-        $('html').attr('data-lang', 'zh');
-        $('#lang-label').text('EN');
-      } else {
-        $('html').removeAttr('data-lang');
-        $('#lang-label').text('中文');
-      }
-    };
-    setLang();
+(function () {
+  var html = document.documentElement;
+  var label = document.getElementById('lang-label');
+  var toggle = document.getElementById('lang-toggle');
 
-    $('#lang-toggle').on('click', function () {
-      var current = $('html').attr('data-lang');
-      var newLang = current === 'zh' ? 'en' : 'zh';
+  function setLang(lang) {
+    if (!lang) lang = localStorage.getItem('lang') || 'en';
+    if (lang === 'zh') {
+      html.setAttribute('data-lang', 'zh');
+      if (label) label.textContent = 'EN';
+    } else {
+      html.removeAttribute('data-lang');
+      if (label) label.textContent = '\u4e2d\u6587';
+    }
+  }
+
+  setLang();
+
+  if (toggle) {
+    toggle.addEventListener('click', function () {
+      var current = html.getAttribute('data-lang');
+      var newLang = (current === 'zh') ? 'en' : 'zh';
       localStorage.setItem('lang', newLang);
       setLang(newLang);
     });
-  });
+  }
+})();
 </script>
 
 {% include analytics.html %}
