@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Chengxin Zheng"
 title_separator          : "-"
 name                     : &name "Chengxin Zheng"
-description              : &description "personal description"
+description              : &description "Chengxin Zheng (郑诚信) — MS @ BJUT. Multimodal LLMs, unified multimodal modeling, and medical multimodal understanding."
 url                      : https://chauncey-jheng.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chauncey-jheng/chauncey-jheng.github.io"
@@ -77,12 +77,14 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  preprints:
+    title: 'Preprints'
+  manuscripts:
+    title: 'Journal Articles'
+  books:
+    title: 'Books'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
