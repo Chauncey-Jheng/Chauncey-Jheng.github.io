@@ -10,13 +10,13 @@ redirect_from:
 
 <div class="lang-en" markdown="1">
 
-- 🤗I am a second-year MS student in [College of Computer Science](https://cs.bjut.edu.cn/) at [Beijing University of Technology (BJUT)](https://english.bjut.edu.cn/), supervised by [Prof. Junzhong Ji](https://english.bjut.edu.cn/info/1332/4973.htm) and [Prof. Xiaodan Zhang](https://zhangxiaodan-bjut.github.io/). I received my B.Eng in [School of Computer and Information](https://ci.hfut.edu.cn/) from [Hefei University of Technology (HFUT)](https://www.hfut.edu.cn/) in 2023.
+- 🤗I received my M.S. from the [College of Computer Science](https://cs.bjut.edu.cn/) at [Beijing University of Technology (BJUT)](https://english.bjut.edu.cn/) in 2026, advised by [Prof. Junzhong Ji](https://english.bjut.edu.cn/info/1332/4973.htm) and [Prof. Xiaodan Zhang](https://zhangxiaodan-bjut.github.io/). I received my B.Eng in [School of Computer and Information](https://ci.hfut.edu.cn/) from [Hefei University of Technology (HFUT)](https://www.hfut.edu.cn/) in 2023.
 
 📌 My research interests lie in Unified Multimodal LLMs (Uni-MLLMs), Medical Multimodal LLMs (Med-MLLMs), and vision-language representation learning for multimodal LLMs (e.g., MLLM OCR, visual tokenization).
 
 ✉️ Welcome to contact me for any discussion and cooperation!
 
-💥 💥 **I will graduate in 2026 and plan to join Baidu AI Cloud as a Large Language Model Algorithm Engineer. Feel free to contact me for any discussion!** 💥 💥
+💥 💥 **I received my M.S. from BJUT in 2026. Feel free to contact me for any discussion or collaboration!** 💥 💥
 
 # 🔥 News
 - **[2026/05]** Our paper "Detached Skip-Links and R-Probe: Decoupling Feature Aggregation from Gradient Propagation for MLLM OCR" was accepted to **ICML 2026**.
@@ -109,13 +109,13 @@ Refer to my [Google Scholar Profile](https://scholar.google.com/citations?user=A
 
 <div class="lang-zh" markdown="1">
 
-- 🤗我是[北京工业大学](https://www.bjut.edu.cn/)[计算机学院](https://cs.bjut.edu.cn/)的二年级硕士研究生，导师为[冀俊忠教授](https://english.bjut.edu.cn/info/1332/4973.htm)和[张晓丹教授](https://zhangxiaodan-bjut.github.io/)。我于2023年在[合肥工业大学](https://www.hfut.edu.cn/)[计算机与信息学院](https://ci.hfut.edu.cn/)获得工学学士学位。
+- 🤗我于2026年在[北京工业大学](https://www.bjut.edu.cn/)[计算机学院](https://cs.bjut.edu.cn/)获得硕士学位，导师为[冀俊忠教授](https://english.bjut.edu.cn/info/1332/4973.htm)和[张晓丹教授](https://zhangxiaodan-bjut.github.io/)。我于2023年在[合肥工业大学](https://www.hfut.edu.cn/)[计算机与信息学院](https://ci.hfut.edu.cn/)获得工学学士学位。
 
 📌 我的研究方向为统一多模态大模型（Uni-MLLMs）、医疗多模态大模型（Med-MLLMs），以及面向多模态大模型的视觉-语言表征学习（如 MLLM OCR、视觉 Tokenizer）。
 
 ✉️ 欢迎联系我进行任何学术讨论与合作！
 
-💥 💥 **我将于2026年毕业，计划加入百度智能云担任大模型算法工程师。欢迎随时联系交流！** 💥 💥
+💥 💥 **我已于2026年从北京工业大学获得硕士学位。欢迎随时联系交流与合作！** 💥 💥
 
 # 🔥 最新动态
 - **[2026/05]** 论文《Detached Skip-Links and R-Probe: Decoupling Feature Aggregation from Gradient Propagation for MLLM OCR》被 **ICML 2026** 录用。
