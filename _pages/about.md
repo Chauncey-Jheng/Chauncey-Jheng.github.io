@@ -16,7 +16,7 @@ redirect_from:
 
 ✉️ Welcome to contact me for any discussion and cooperation!
 
-💥 💥 **I will graduate in 2026 and am currently seeking opportunities for PhD studies and research internships.  If you are interested, please feel free to contact me** 💥 💥
+💥 💥 **I will graduate in 2026 and plan to join Baidu AI Cloud as a Large Language Model Algorithm Engineer. Feel free to contact me for any discussion!** 💥 💥
 
 # 🔥 News
 - **[2026/05]** Our paper "Detached Skip-Links and R-Probe: Decoupling Feature Aggregation from Gradient Propagation for MLLM OCR" was accepted to **ICML 2026**.
@@ -55,6 +55,19 @@ Refer to my [Google Scholar Profile](https://scholar.google.com/citations?user=A
           <h2 style="margin: 0;">Detached Skip-Links and R-Probe: Decoupling Feature Aggregation from Gradient Propagation for MLLM OCR</h2>
           <p>Z. Yuan, R. Yao, <strong>C. Zheng</strong>, Y. Zhao, D. Dong, and M. Zhang</p>
           <p>International Conference on Machine Learning (ICML) 2026</p>
+      </div>
+  </div>
+
+- Domain-enhanced vision-language models:
+
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; margin-bottom: 20px; text-align: center;">
+      <div>
+          <h2 style="margin: 0;">Qianfan-VL: Domain-Enhanced Universal Vision-Language Models</h2>
+          <p>D. Dong, M. Zheng, D. Xu, B. Zhuang, W. Zhang, C. Luo, H. Wang, Z. Zhao, J. Li, Y. Li, H. Zhong, M. Liu, J. Chen, S. Li, L. Tian, Y. Feng, X. Li, D. Jiang, Y. Chen, Y. Xu, D. Qin, C. Feng, D. Wang, H. Zhang, J. Ha, J. He, Y. Zhai, <strong>C. Zheng</strong>, et al.</p>
+          <p>arXiv preprint, 2025</p>
+          <p>
+              <a href="https://arxiv.org/abs/2509.18189">Paper</a>
+          </p>
       </div>
   </div>
 
@@ -102,7 +115,7 @@ Refer to my [Google Scholar Profile](https://scholar.google.com/citations?user=A
 
 ✉️ 欢迎联系我进行任何学术讨论与合作！
 
-💥 💥 **我将于2026年毕业，目前正在积极寻求博士学习和科研实习机会。如有兴趣，欢迎随时联系我！** 💥 💥
+💥 💥 **我将于2026年毕业，计划加入百度智能云担任大模型算法工程师。欢迎随时联系交流！** 💥 💥
 
 # 🔥 最新动态
 - **[2026/05]** 论文《Detached Skip-Links and R-Probe: Decoupling Feature Aggregation from Gradient Propagation for MLLM OCR》被 **ICML 2026** 录用。
@@ -141,6 +154,19 @@ Refer to my [Google Scholar Profile](https://scholar.google.com/citations?user=A
           <h2 style="margin: 0;">Detached Skip-Links and R-Probe: Decoupling Feature Aggregation from Gradient Propagation for MLLM OCR</h2>
           <p>Z. Yuan, R. Yao, <strong>C. Zheng</strong>, Y. Zhao, D. Dong, and M. Zhang</p>
           <p>国际机器学习大会（ICML）2026</p>
+      </div>
+  </div>
+
+- 领域增强视觉语言大模型：
+
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; margin-bottom: 20px; text-align: center;">
+      <div>
+          <h2 style="margin: 0;">Qianfan-VL: Domain-Enhanced Universal Vision-Language Models</h2>
+          <p>D. Dong, M. Zheng, D. Xu, B. Zhuang, W. Zhang, C. Luo, H. Wang, Z. Zhao, J. Li, Y. Li, H. Zhong, M. Liu, J. Chen, S. Li, L. Tian, Y. Feng, X. Li, D. Jiang, Y. Chen, Y. Xu, D. Qin, C. Feng, D. Wang, H. Zhang, J. Ha, J. He, Y. Zhai, <strong>C. Zheng</strong> 等</p>
+          <p>arXiv 预印本，2025</p>
+          <p>
+              <a href="https://arxiv.org/abs/2509.18189">论文</a>
+          </p>
       </div>
   </div>
 
